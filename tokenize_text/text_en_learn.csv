@@ -1,0 +1,402 @@
+en-US_translated,TAKE_RIGHT
+-,1
+4.8,1
+S7 Office - Swimlane Flow Analysis (Final),1
+nothing,1
+EMF - Production Strategies,1
+Production Strategies,1
+Typology of production processes,1
+MFE - Formulas for MFE(1),1
+Formulas for MFE(1),1
+MFE - MFE Formulas (2),1
+Formulas for MFE (2),1
+EMF - Use cases,1
+Use cases,1
+MFE - MFE Formulas (3),1
+Formulas for MFE (3),1
+!!!Satisfaction survey,1
+!!!Satisfaction survey,1
+"Hello I am your manager, you will have to report to me on the different feedbacks you will get on the field",1
+"Hello, okay I get it!",1
+"It is important to understand that the exchanges generated during the Active Supervision Tour (AST) must allow for the identification of gaps, risks and opportunities in order to capture and address them. The objective of the ASR is to move from a ""firefighter"" mode to a problem anticipation mode by exchanging with one's colleagues. Benevolence consists of taking a genuine interest in the problems encountered by employees. ",0
+I see,1
+"Here is an interesting graph by Kubler Kross showing the evolution of morale and Productivity over time, when faced with a change. It won't have any influence in this mini-game, but it's something to consider when you're out in the field!",1
+"Alright, let's see this graph then!",1
+Stages of change,1
+Kübler Ross,1
+Shock,1
+Denial,1
+Anger,1
+Negotiation,1
+Depression,1
+Acceptance,1
+Experimentation,1
+Decision,1
+Integration,1
+Morale and Productivity,1
+Time,1
+"Okay, here we go!",1
+Did you want to talk about something else?,1
+"Hello, do you have any questions?",1
+What do you have to tell me? (SAFETY),1
+"Indeed, you have to go there to get hurt!",0
+"Don't think so, there's a reason you have a mask. No sore throat?",1
+"You never know, danger can come from the surroundings.",1
+Haha! That's for sure!,1
+"No need to check, there is no risk at the painting station.",0
+"What do you mean ""no need to check""? Safety comes first, you can't afford to ignore that.",1
+"No, everything is fine on this side. Our protective masks have high performance filters.",1
+"Yes, but the safety zone is well defined, no risk there.",1
+Safety protocol is well enforced around the painting station.,1
+"Yes logical, we make sure that all the posts have a well defined area.",1
+No itching from paint particles that might be lingering in the air?,1
+Do you remember to change the mask filter regularly to avoid inhalation problems? ,1
+"No more, my outfit protects me completely! ",0
+"No worries, the protective gear is effective for the painting station.",1
+"Okay, that doesn't surprise me. Anything else?",1
+"Yes yes, I am careful, there is no risk on that side, thank you!",1
+I made sure that the Operator at the painting station was following the safety instructions. They seem to be effective since no problems were reported at this level.,0
+"Very well thank you, it's important to make sure that all positions are secure yes.",0
+What do you have to say to me?,0
+"Really? We have a big delivery this week, are you done yet?",1
+"Oh well, good for you!",1
+"Not at all, on the contrary! But I don't have any paint!",1
+"Uh, if you say so...",1
+No work for the painting workstation.,1
+And? Did you leave it like that? We have to see why.,1
+And you just waited without doing anything?,1
+How come? You are not supplied?,1
+"Indeed, without paint you can't work. Just keep waiting for your job to be filled.",0
+"Well, I went to look in the inventory, but there were none left.",1
+No! For a few days Felix has not been coming to supply my post.,1
+"Well, okay...",1
+The painting station is waiting to be supplied.,1
+"This is not normal, you did not even dig to know why? You have to go and find out.",1
+"Well, if there are no more, that's that. We have to wait until we order new paintings.",1
+But isn't there an inventory?,1
+You can go get the paint yourself instead of doing nothing.,1
+"Yes, that's normal, he's been assigned to another shop. I'm going to go ask why they don't come and supply your station.",1
+"Okay, this is not normal. I'll have a word with Felix.",1
+Ok well I'll wait then.,1
+"I don't know, usually when I go to get it, there's inventory.",0
+"Oh well, that's why... So what do I do in the meantime?",1
+"It works, it may still be on break!",0
+We need to order more paint.,1
+"Order more paint? Impossible, I reviewed the inventory again yesterday. Where is this increase coming from? I don't understand this return.",0
+"The Operator is not autonomous, he doesn't go and get the paint by himself.",1
+What? Of course and he does it right! It's not up to the Operator to go get the paint from inventory. I hope you didn't tell him to do that.,1
+I'm going to go see Felix because it looks like he hasn't stocked the paint station.,1
+"Okay, we need to know why, it doesn't really help us here.",1
+Do you get the paint yourself? Nobody brings it to you?,1
+"So when you take from the inventory, you don't notify anywhere what you're taking?",1
+I'll check with Logistic to get you emergency supplies so you can work.,0
+"Wait for a Logistician to arrive, they must have assigned you someone else.",1
+"Yes, but when the Logisticians don't bring it to me, I get it myself!",1
+"Uh no, I'm not aware of what to do in the inventory.",1
+"Ah thank you, this will help me a lot!",1
+"Well, okay...",1
+Operators do not know the inventory processes.,1
+It's not their job to manage the inventory so it's not a problem.,1
+The painting station must wait for the painting.,1
+The job is waiting? And you didn't find out why? You have to go back and find out...,0
+You don't want to do that. I'll see why the Logisticians don't always supply you.,1
+"I'll see what I can do for the Logisticians. In the meantime, keep picking up inventory when you need it.",1
+Any idea how to prevent this from happening again?,1
+I'll let you know as soon as I know more. See you later.,1
+Understood.,1
+"Oh well, okay.",1
+It would be nice to have an assignment schedule by production line to be aware of and react faster!,1
+"Okay thanks, see you later!",1
+Logisticians have not stocked the paint station. Operators are not allowed to go into the inventory.,0
+"Yes, okay, but why didn't they supply it? We need to move forward on the problem.",1
+The Logisticians work badly. Meanwhile the Operators are allowed to go into the inventory.,1
+Wow. That's a load of crap you're doing back there. You accuse and on top of that you give a bad directive...,1
+The problem of paint supply must be solved and an allocation schedule by production line must be made visible to the teams.,1
+"Ok perfect, thank you! I trust you for the implementation and reporting. Don't hesitate if you have any question.",1
+"Due to the Logistic assignment changes, the paint station has not been stocked. I am having it stocked urgently for today and will check with Logistic.",0
+Thank you very much.,1
+What do you have to say to me (QUALITY),0
+"Nothing to report. The new paints dry faster, it's much more pleasant. ",1
+Very good. Hi.,0
+Glad to hear it. Have these new paintings changed your process? ,1
+See you later!,1
+"No, I always do the same. ",1
+"Yeah, I didn't see any difference, and I know what I'm talking about, I've been seeing this paint for 10 years.",1
+Didn't even have to check! CLEAR.,1
+"What's that? You have to check, even if there are no problems in the end, you have to make sure!",1
+The new paint matches the old paint in color.,1
+"Yes, we made sure of that. But we have to make sure that it doesn't have an impact on the process, the cleaning or anything else.",1
+Okay fine.,1
+"Anything else to report, either during set-up or clean-up?",1
+Cool!,1
+"Ah well, now that you mention it, I have the impression that the guns are more complicated to clean. You'd have to change the solvent.",0
+The new paints do not appear to change the process of the job.,0
+"Okay, anything else?",1
+"The guns are complicated to clean with the new paints, I will inquire about adapting the solvent.",0
+"Ah very well okay, thanks for bringing this up. Keep me posted and I'll place an order for a more suitable solvent.",1
+What do you have to tell me? (SAFETY),1
+"Yes, it can be done.",0
+"Is it okay? Well then, great!",0
+I saw that a safety issue was brought up in your post. Can you tell me more about it?,0
+What's going on? ,1
+"Yeah, nice...",1
+"Oh great that you mention it! Indeed, I almost had my hand crushed!",1
+I don't feel like the safety standards are well enforced.,1
+"Is that all? Well, you have to dig and make sure, especially since this position can be risky!",0
+Ah well! Could you explain how?,0
+"Yes, this is a common problem in the industry. We have to be careful to apply them properly!",1
+"Yes, this is often the problem. You have to deal with it. ",1
+It took me a little while to get my hands off...,1
+Mmhh... okay.,1
+"Well, okay... until the day when...",1
+The Operator indicated that Safety standards were not well enforced. We will be careful.,1
+Uh okay but that's light there. Why aren't they? What action is being taken? It needs to be addressed quickly!,1
+"You have to deal with it?! Is this a joke I hope? I want to know why, and that the safety problems are corrected quickly if there are any!",0
+We'll have to practice to be faster. It would be silly to lose a hand!,0
+There is no automatic safety system?,1
+"Okay, so it's my fault...",1
+"Yes, but it doesn't go off every time. Since I had to keep producing, I did what I could...",1
+Operator almost gets his hands crushed because he's not fast enough.,1
+"What?! But there's usually an emergency safety system, it's not a matter of speed. We can't leave it like that!",0
+"You did the right thing. Production doesn't have to stop, you just have to be careful.",0
+"It's still dangerous, we have to fix it quickly. I'm going to call in Maintenance and you're going to move to a different job in the meantime.",0
+"I'll see if Maintenance can come fix your machine. In the meantime, be careful where you put your hands.",1
+Got it! I'll be careful!,1
+I don't want to lose my hand!,1
+Got it! I'll be careful!,1
+The Operator almost got his hands crushed so he slowed down his production. I told him that production takes precedence over safety.,1
+"I notified Maintenance of a safety issue on the stamping station, meanwhile the Operator continues to work on it.",1
+"Okay, but it's not reasonable to let him keep working on it when there's a risk of an accident.",1
+"I'll let you know when the problem is resolved. In the meantime, go see Eric and have him reassign you to another position. You can't continue on this machine.",1
+Would you have any ideas for improving safety in your position in the future?,1
+Thank you! One less stress!,0
+Preventive Maintenance can be set up to detect this early.,1
+The Operator is assigned to a secondary position while Maintenance fixes the safety problem on his position.,0
+"Thank you very much! In the future, we should find a solution to prevent this from happening again.",1
+I have sent Maintenance to the stamping station. In the meantime the Operator will work on another station. In the future we will plan regular maintenance to reduce this kind of risk.,1
+"Ok great, thanks! This is a great idea, so we can improve our safety at the stations!",1
+What do you have to say to me?,0
+"Yes I saw your return, do you mean the neon that is defective? ",1
+Still bitching about it... what's up?,0
+"Yes exactly, frankly it's been going on for a while and it's getting really annoying to see it blinking.",1
+No nothing let it go.,0
+"The Operator looks tense and irritated, but since he often grumbles I didn't want to dig.",1
+And you leave it like that? You don't even want to know why?,1
+Okay well I'll see what I can do when I have time.,1
+"Okay, can you show me which one it is please? Does this happen often?",1
+"We have other priorities at the moment, we have to deal with them.",0
+"Ok, hopefully soon...",1
+"Yes, it's the third one, you can see it because it's blinking... And it's very frequent, especially at the end of the day, it's very tiring... And I'm not the only one that it bothers.",1
+"Great, as usual.",1
+"Operator says a neon light is broken, I'll see what I can do when I have time.",1
+"It is important, if he can not work in good conditions it can be a priority, we must not neglect these aspects.",1
+"The Operator indicates that a neon is defective and that it disturbs him daily, we have other problems to solve than futile complaints",1
+Frivolous complaints? The wellbeing of employees is not important? This is nonsense.,0
+"Okay we'll see what we can do, got it.",1
+Okay I'll quickly see to it that it is replaced within the day.,1
+Okay.,1
+Oh great! Thanks,1
+"No worries, do you have any idea how to fix this kind of problem better in the future?",1
+"Afterwards, it was not a reason to complain either, there are worse things.",1
+"Maybe the display could be improved to put a classification of the returns, and their rate of occurrence as well as their priority.",0
+"Well... it was disturbing honestly, it was a headache at the end of the day.",0
+I took note that there was a problem with a neon light.,1
+"Okay, and? we should anticipate the repair if it disturbs the Operators",1
+I'm going to have the neon light that is bothering the Operators replaced. I will also look into a better way to manage the problems in the future with a more accurate display system on the production returns.,0
+"All right, fine! Keep me posted on the rest and the implementation!",1
+"I will see to change a neon which disturbs, but frankly they really complain for nothing.",1
+"Well-being is not trivial, if they are complaining there is probably a good reason. You asked how their feedback could be taken into account more quickly?",1
+What do you have to say to me (QUALITY),0
+"All is well, all is well.",1
+No change in your work habits?,1
+Does the sheet metal look the same to you as usual?,1
+"Well listen, if everything goes well, it's perfect!",1
+"No, I'm doing what I always do. Is there a problem?",1
+"Well, they seem to be a little lighter and more flexible, but I didn't have any trouble with the stamping.",1
+Yeah!,1
+"Clear at the stamping station on quality, no need to check.",1
+"Of course you do, you have to check. You need more information to be able to say that everything is OK.",1
+It was reported that the frames were breaking more often during assembly. I was wondering if this could be due to the stamping of the sheets.,1
+"No, just checking to see if you are doing your job.",1
+"Yes so they are not as usual, you could at least indicate that!",1
+"We changed supplier so if you have a problem with the sheet metal, don't hesitate to reassemble it!",0
+"I have not changed anything in my way of working, it must come from somewhere else.",1
+"Ah well, long live confidence!",1
+Uh yes but it didn't change anything in my process...,1
+"Okay it works, thanks for the info!",1
+The more fragile drones don't come from stamping.,1
+"Okay, we should know where it comes from then.",1
+I don't know if the Operator at the Workstation is doing his job right.,0
+"Why is that? I never had any negative feedback about him, why would he be the cause? You shouldn't accuse without digging...",1
+The stamping station operator does not report problems.,1
+"Apparently, neither do you. What is the real problem that he wouldn't have brought up? What is the impact? The solution? I invite you to be more precise...",1
+The sheet metal change did not impact the workstation. He will keep us informed if it impacts his station.,0
+"Okay, fine.",1
+What do you have to say to me? (SAFETY),0
+"Yes it's ok, I just don't know where to get earplugs.",1
+You can ask your colleagues where they got theirs.,1
+"Really? Didn't you already have some? If not, they are in the PPE room.",1
+And you're waiting for me to come to you to take care of it?,1
+"Okay, thanks. No, I didn't need it, but they moved my station while I was away and I'm next to a much noisier station.",0
+Let's just say that I didn't need it before...,1
+The assembly station operator will ask his colleagues where the earplugs are.,1
+"Uh... Okay, and?",1
+"The Operator at the assembly is not very proactive, he has no safety equipment but he didn't look for it.",1
+Why? You're bringing this up again for no reason? Did you look for a reason?,0
+"Yes indeed, we needed to move your position.",0
+"Okay, we took the liberty of putting your station here, to reduce travel. Is it okay if we provide you with plugs like for the stamping station?",0
+You thought we were in a massage parlor? It's normal for it to be noisy.,1
+"I've seen it, feel free to tell me about it before next time.",0
+"Yes no worries, I have no problem with the location, just the noise. So if the problem is solved, I'm fine!",1
+Operators must be notified when changes are made.,1
+"Yes, it's obvious.",1
+The operator at the assembly station cannot stand the noise.,1
+"And we leave it like that? There's no point in bringing this up again, we have to find a solution.",1
+Great! Do you have any ideas on how to make other posts not have this problem?,0
+"Very good, everyone is happy like that. ",1
+We could install a dispenser at the entrance to the shop or have each Operator have their own custom caps.,0
+"Yes, thank you!",1
+Make sure every employee has custom-made earplugs and add a dispenser at the entrance to the line in case they forget.,1
+"Very good idea, I'll see on my side to set this up.",1
+"The stamping station is noisy, and plugs must be provided for the surrounding stations, especially the assembly station.",0
+"Okay, fine. See if we can't find a more general solution that benefits all positions.",0
+What do you have to say to me?,0
+"It's okay, I just got back from sick leave. ",1
+"You're away a lot, right?",0
+"Okay, are you well enough?",1
+"Well, not more than anyone else I guess?",1
+"Yes, thank you, I'm fine! A few organizational things were changed while I was away and I didn't know.",1
+Monitor the assembly station. The Operator may be faking illness.,1
+Nonsense. I hope you're laughing. Any other more relevant feedback?,1
+And why didn't you know? You should have kept up with it when you got back.,1
+Which points exactly?,1
+I'll be careful next time.,1
+"The morning stand-up meeting went from 9:45 to 9:15 and I didn't know about it, I missed it this morning.",1
+"Keep an eye on the Assembly Station Operator, he doesn't seem very invested.",1
+I've never heard that before. I would be surprised. What do you want me to do with this return?,0
+You should still keep up with the changes when you're away.,1
+"Okay no worries, how do you think we could fix this so no one forgets?",1
+"Well, now you know, that's the main thing! ",1
+Ok I thought I would be warned...,1
+I think we could put a display at the entrance to the workshop!,1
+"Indeed, I'm not likely to forget anymore.",1
+The assembly station operator is late for meetings.,1
+Did you? Did you tell him about this meeting? I remind you that he was off work last week.,0
+"A display with the information affecting the prod line should be provided, visible to all to avoid misunderstandings.",0
+"Yes it's a very good idea, I'll let you set it up? Thank you!",1
+The Operator is now aware of the new organization.,1
+"I hope so, but if not?",1
+What do you have to say to me (QUALITY),0
+Uh... I've had better days.,1
+"It's not easy every day, take heart. ",0
+What's going on?,1
+"Yeah well, it happens, stop complaining and work a little.",1
+Yes thank you ...,1
+That's two broken hulls today!,0
+"Well, great empathy.",1
+The Operator does not seem to be in good spirits.,0
+"Okay, you asked why? It's important to find out.",1
+The Operator is complaining about nothing.,1
+What is this return? I'm not asking you to judge the operators!,0
+Did you raise your concern?,1
+Yes I have seen an increase in the last few days. Do you have any idea where it's coming from?,1
+You should be more careful in your work.,1
+"Not yet. I think I've found the cause, but I'd rather be sure before I tell you. ",1
+I haven't changed my way of doing things but the hulls seem more fragile.,0
+"However, I am always so careful.",1
+"The Operator is not very conscientious in his work, some hulls have broken.",0
+Ah hulls break so it's the Operator's fault. Did you go further before concluding that?,0
+"You should have told me about it as soon as it happened, we don't ask you to think about it.",0
+It's important to warn when it happens. What are your first guesses?,1
+"We changed suppliers, do you think that could be the reason?",1
+Maybe the humidity at the moment is a factor.,1
+"All right, next time I'll tell you directly. In any case, you know about it now. No need to talk like that.",1
+"I feel like the sheet metal is thinner than before, but I'm not sure. I was going to talk to my colleague to see if he noticed anything.",1
+"I don't know, but in any case, since Felix has been managing the supply of sheet metal, he finds it lighter too.",1
+Uh maybe I don't know.,1
+The Operator broke drones and looked for where it could have come from instead of putting it back together. Another one who thinks he knows everything.,1
+How often do you talk like this about the people on the team? I'm waiting for more relevant feedback. Did you even look for the cause of the breakage?,1
+The sheets seem more fragile. Perhaps the humidity in the air?,1
+"This is a piece of information, even if it seems implausible given our storage conditions. Have you looked into this ?",1
+"He's not very smart, I don't think he notices anything.",1
+We did change suppliers. I'm going to see about getting the quality of the sheet metal checked.,1
+Do you think Felix could be the cause of this problem?,1
+"Okay, I'll ask to check the quality of the sheet metal.",1
+Wow... I hope you don't talk about everyone like that...,1
+I will be careful until I know if I need to change my process. ,1
+"No I don't think so, Felix is very careful, there is no reason for him to be the cause.",1
+"Okay, I'll continue in the meantime?",1
+"The Operator at the stamping station is not very smart, he may be the cause of the sheet metal problem.",1
+"Okay, that's one thing, but it's more important to know where the problem is coming from.",1
+"The quality of the sheets from the new supplier seems to be inferior, which is probably the reason for the increase in breakage.",1
+"The quality of the sheets from the new supplier seems to be inferior, which is probably the reason for the increased breakage. I will check with the supplier.",1
+The problem of more fragile drones is not Felix's problem.,0
+"That's one thing, but it's important to know where the problem comes from.",1
+"Yes, being careful, do you have any idea how to prevent this from happening again?",1
+I think you can. Be careful to break as little as possible. ,1
+Could we implement a more thorough quality control of Raw Materials from suppliers?,1
+"Of course, I will be careful.",1
+"The new sheets are of poor quality. A better quality control should be implemented, I will check with the Department in charge. I will also check with the supplier.",1
+"Great, I look forward to your feedback on the progress. This will allow us to reduce our defects in the future.",0
+"The new sheets are of lesser quality, we have to change supplier. I will check with them.",0
+"Very well thank you, I let you see it. It remains to be seen how to reduce the defects in the future and make this sustainable.",1
+I think we've covered all the topics.,1
+The safety system on my machine seems to be defective. I narrowly avoided a serious accident.,1
+Two more breaks today on the hulls... We will have to do something.,0
+Lack of supplies at the painting station.,1
+"A neon is defective, it becomes painful!",1
+The time is not yet up. Are you sure you want to do AIC now?,0
+Time is up. It's time to do the AIC.,0
+My feedback,1
+Submit,1
+List of returns,1
+Results,1
+"I got it, here we go!",1
+Finish the mini game,1
+It is important to ensure that safety rules are followed and that no operator is at risk. You should go back to the field to make sure.,1
+"We can't afford to ignore the quality of our products, we have to go back to the field to make sure that we don't have any problems in this area.",1
+Personnel issues are equally important. You have to go back to the field to make sure there are no concerns.,0
+Quality of returns,0
+I think that we did not dig all the subjects finally.,0
+It seems to me that we have covered all the issues!,1
+"Hi, I just wanted to make sure that everything is ok in terms of safety at your workstation. Do you remember to change the filter of your mask regularly? No problems to report?",1
+Yes I change the filter regularly as indicated! No worries about safety!,1
+"Hi, I wanted to know if you had any ideas on how to prevent the problems with the logistics staffing from happening again, so that you don't end up without supplies for example?",1
+"Re hello, yes it would be nice to have an assignment schedule per production line to be aware of and react faster in this kind of situation.",0
+"Hello, I forgot to check if the new paint had no impact, even in the cleaning for example?",1
+"Now that you mention it, I feel like the guns are more complicated to clean. It would take a more suitable solvent!",0
+"Hi, do you have any ideas on how to avoid acoustic safety issues? It seems that you are concerned.",1
+"Yes indeed, perhaps a dispenser could be installed at the entrance to the workshop or each Operator could have their own custom made plugs for noisy areas.",0
+"Hi, do you know how we could tell everyone the general information about team meetings for example?",1
+I think we could just put a sign at the entrance of the workshop and anchor the routine so that it becomes a reflex for everyone.,0
+"Hello, do you know how to reduce or prevent breakage or quality problems?",1
+"Could we implement a more thorough quality control of Raw Materials from suppliers? That way, if we change suppliers, the sheet goes through a series of tests before being sent to production?",1
+"Hi, do you have any ideas on how to improve safety in your post in the future?",0
+"Yes, I think it would be relevant to put a regular Preventive Maintenance, to detect, even avoid potential problems, as in my case with the defective safety system.",1
+"Hi, I'm going to get the neon fixed as soon as possible, hopefully today. For future problems, do you have any ideas on how to fix them better and faster?",1
+"Great, thanks! Yes I think we could improve the display to put a classification of returns, and their rate of occurrence and their priority. That way, a problem won't last several days without us doing anything.",0
+"Hello, I wanted to let you know that we have changed our supplier. So don't hesitate to tell us about any problem you might have as soon as possible please.",1
+"Okay, thanks for letting me know. No worries, I'll let you know if it happens!",1
+Do you have anything else to wind up?,1
+One last piece of information?,1
+"Well, the information doesn't seem to be enough, I invite you to go back to the field to deepen some elements and come back to see me to discuss it.",0
+Were you able to get more information?,1
+"All right, anything else to bring up?",1
+"Perfect, one more thing?",1
+You can see the list of your returns by clicking here.,0
+"The list of feedbacks is displayed here. For each feedback, you can see the topic and the person with whom you got it. You will know if it is a relevant feedback or not when you submit it to your manager!",1
+You will have 3 returns to make. A symbol indicating the relevance of each return will be displayed here!,0
+"If you submit irrelevant feedback, you will need to return to the field to finalize the exchange in order to obtain meaningful information.",1
+There are no other answers available,1
+"Trained as an industrial Logistician, I am a certified Black Belt in Lean Management. I was able to learn and apply my skills for multinational companies. I worked for 12 years in the electronics industry (more precisely in the lighting industry), 3 years in the automotive industry and 2 years in the pharmaceutical industry. I also followed an ""Industry 4.0"" training course at CentraleSupélec in Saclay.",1
+"Alright, we can schedule a meeting to brainstorm resolutions!",0
+"You have the necessary information, you can go back to the manager.",1
+Welcome to the Short Interval Animation mini-game!,0
+The objective of the 1st loop of the AIC is to make a tour of the production (Active Supervision Tour) in order to bring back useful information to the manager during the AIC meeting.,0
+"You will have to start by making a Gemba Walk. To do this, click on an Operator, this one for example.",1
+This is your conversation with an Operator. The questions you can ask him are below.,1
+Here you can see the impact of your communication on the Operator's mood. Positive communication is key!,1
+Let's go back to our general view.,1
+"The SQCDP display is important in a company. It allows to follow Indicators such as Safety, Quality, Costs, Delays and Personnel.",0
+"At the end of the allotted time, the AIC with the manager will begin, it is important to get the relevant information before the end.",0
+"However, you can launch the AIC before the end of the time limit if you think you have enough information! To do this, just click on your manager, let's go and see her.",0

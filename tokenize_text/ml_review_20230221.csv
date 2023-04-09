@@ -1,0 +1,426 @@
+French [fr-FR]
+-
+4.8
+S7 Office - Analyse de déroulement Swimlane (Final)
+nothing
+EMF - Stratégies de Production
+Stratégies de Production
+Typologie des procédés de production
+EMF - Formules pour l'EMF(1)
+Formules pour l'EMF(1)
+EMF - Formules pour l'EMF (2)
+Formules pour l'EMF (2)
+EMF - Cas d'emploi
+Cas d'emploi
+EMF - Formules pour l'EMF (3)
+Formules pour l'EMF (3)
+!!!Enquête de satisfaction
+!!!Enquête de satisfaction
+"Bonjour je suis votre manageuse, vous aurez à me faire un rapport sur les différents retours que vous obtiendrez sur le terrain"
+"Bonjour, d'accord c'est compris !"
+"Il est important de comprendre que les échanges générés durant la Tournée de Supervision Active – TSA, doivent permettre d’identifier des écarts, des risques et des opportunités afin de les capturer et de les traiter. La TSA a pour objectif de passer d’un mode « pompier » à un mode d’anticipation des problèmes en échangeant avec ses collaborateurs. La bienveillance consiste à s’intéresser vraiment aux problèmes rencontrés par ses collaborateurs. "
+Je vois
+"Voici un graphique interessant établi par Kubler Kross montrant l'évolution du moral et de la productivité au fil du temps, face à un changement. Cela n'aura pas d'influence dans ce mini-jeu, mais c'est à prendre en compte lorsque vous serez sur le terrain !"
+"Très bien, voyons ce graphique alors !"
+Les étapes du changement
+Kübler Ross
+Choc
+Déni
+Colère
+Négociation
+Dépression
+Acceptation
+Expérimentation
+Décision
+Intégration
+Moral et productivité
+Temps
+"Ok, c'est parti !"
+Vous vouliez parler d'autre chose ?
+"Bonjour, vous avez des questions ?"
+Qu’as-tu à me dire ? (SÉCURITÉ)
+"Oh je suis à la peinture, donc peu de risques !"
+"Effectivement, il faut y aller pour se blesser !"
+"Il ne faut pas croire, ce n'est pas pour rien que tu as un masque. Aucun mal de gorge ?"
+"On ne sait jamais, le danger peut venir des alentours."
+Haha ! C'est sûr !
+"Pas besoin de vérifier, il n'y a aucun risque au poste de peinture."
+"Comment ça ""pas besoin de vérifier"" ? La sécurité prime avant tout, tu ne peux pas te permettre d'ignorer cet aspect.
+"
+Non tout va bien de ce côté là. Nos masques de protection ont des filtres ultra performants.
+"Effectivement, mais la zone de sécurité est bien définie, pas de risque à ce niveau là."
+Le protocole de sécurité est bien appliqué autour du poste de peinture.
+"Oui logique, nous faisons attention à ce que tous les postes aient une zone bien délimitée."
+Aucunes démangeaisons dues aux particules de peinture qui pourraient traîner dans l'air ?
+Est-ce que tu penses bien à changer régulièrement le filtre des masques pour éviter tout soucis d'inhalation ? 
+"Non plus, ma tenue me protège entièrement ! "
+"Pas de soucis, la tenue de protection est efficace pour le poste de peinture."
+"D'accord, cela ne m'étonne pas. Autre chose ?"
+"Oui oui, j'y fais attention, il n'y a pas de risque de ce côté là, merci !"
+Je me suis assuré que l'opérateur au poste de peinture applique les consignes de sécurité. Elles semblent efficaces vu qu'aucun problème n'a été remonté à ce niveau là.
+"Très bien merci, il est important de s'assurer que tous les postes soient sécurisés oui."
+Qu’as-tu à me dire ? (PERSONNEL)
+"Oh ça va, pas grand chose à faire."
+"Ah bon ? On a pourtant une grosse livraison cette semaine, tu as déjà fini ?"
+Oh bah tant mieux pour toi !
+"Pas du tout, au contraire ! Mais je n'ai pas de peinture !"
+"Euh, si vous le dites..."
+Pas de travail pour le poste de peinture.
+Et ? Tu l'a laissé comme ça ? Il faut voir pourquoi.
+Et tu as juste attendu sans rien faire ?
+Comment ça se fait ? Tu n'es pas approvisionnée ?
+"Effectivement, sans peinture tu ne peux pas travailler. Continue d'attendre qu'on approvisionne ton poste."
+"Bah j'ai été voir dans le stock, mais il n'y en avait plus."
+Non ! Depuis quelques jours Felix ne vient plus approvisionner mon poste.
+Bon ben d'accord...
+"Le poste de peinture attend d'être approvisionné.
+"
+"Ce n'est pas normal, tu n'a même pas creusé pour savoir pourquoi ? Il faut aller se renseigner."
+Bon ben si il n'y en a plus c'est comma ça. Faut attendre que l'on commande de nouvelles peintures.
+Mais il n'y a pas un inventaire des stocks ?
+Tu peux aller chercher toi même la peinture au lieu de ne rien faire.
+"Oui c'est normal, il a été affecté sur un autre atelier. Je vais aller demander pourquoi on ne vient pas approvisionner ton poste."
+"Ok, ce n'est pas normal. Je vais en toucher deux mots à Felix."
+Ok bon ben j'attends alors.
+"Je ne sais pas, en général quand je vais en chercher, il y a du stock."
+Ah je ne savais pas que c'était à moi de le faire...
+Ah ben c'est pour ça... Du coup je fais comment en attendant ?
+"Ça marche, il est peut-être encore en pause !"
+Il faut commander plus de peinture.
+"Commander plus de peinture ? Impossible, j'ai revu les stocks encore hier. D'où vient cette remontée ? Je ne comprends pas ce retour."
+"L'opérateur n'est pas autonome, il ne va pas chercher la peinture tout seul."
+Quoi ? Évidemment et il fait bien ! Ce n'est pas à l'opérateur d'aller chercher la peinture en stock. J'espère que tu ne lui a pas indiqué de le faire.
+Je vais aller voir Felix car il semblerait qu'il n'a pas approvisionné le poste de peinture.
+"D'accord, il faut savoir pourquoi, ça nous avance pas trop là."
+Tu vas chercher toi même la peinture ? Personne ne te l'apporte ?
+"Donc quand tu prends dans le stock, tu ne notifies nul part ce que tu prends ?"
+Je vais voir avec la logistique pour t'approvisionner en urgence pour que tu puisses travailler.
+"Attends qu'un logisticien arrive, ils doivent bien t'avoir assigné quelqu'un d'autre."
+"Si, mais quand les logisticiens ne m'en apportent pas, je vais le chercher moi même !"
+"Heu non, je ne suis pas au courant de ce qu'il faut faire dans le stock."
+Ah merci cela va bien m'aider !
+Bon ben ok...
+Les opérateurs ne connaissent pas les process au niveau des stocks.
+Ce n'est pas à eux de gérer les stocks donc ce n'est pas problématique.
+Le poste de peinture doit attendre la peinture.
+Le poste attend ? Et tu n'as pas cherché à savoir pourquoi ? Il faut retourner se renseigner...
+Il faut éviter de faire ça. Je vais voir pourquoi les logisticiens ne te fournissent pas toujours.
+"Je vais voir ce que je peux faire pour les logisticiens. En attendant, continue d'aller chercher du stock quand tu en as besoin."
+Une idée pour éviter que ça ne se reproduise ?
+Je te tiens au courant dès que j'en sais plus. A plus tard.
+D'accord compris.
+Ah bon d'accord.
+Ce serait bien d'avoir un planning d'affectation par ligne de prod' pour être au courant et réagir plus vite !
+"D'accord merci, à plus tard !"
+Les logisticiens n'ont pas approvisionné le poste de peinture. Les opérateurs ne sont pas autorisés à aller dans le stock.
+Oui d'accord mais pourquoi ils ne l'ont pas approvisionné ? Il faut avancer sur le problème.
+Les logisticiens travaillent mal. En attendant les opérateurs sont autorisés à aller dans le stock.
+Oula. C'est n'importe quoi ton retour là. Tu accuses et en plus tu donnes une mauvaise directive...
+Il faut régler le problème d'approvisionnement de la peinture et prévoir un planning d'affectation par ligne de production visible par les équipes.
+"Ok parfait, merci ! Je te fais confiance pour la mise et place et le suivi. N'hésites pas si tu as une question."
+"Suite aux changements d'affectation logistique, le poste de peinture n'a pas été approvisionné. Je le fais approvisionner en urgence pour aujourd'hui et je vais me renseigner auprès de la logistique."
+Très bien merci.
+Qu’as-tu à me dire ? (QUALITÉ)
+"Rien à signaler. Les nouvelles peintures sèchent plus vite, c'est bien plus agréable. "
+Très bien. Salut.
+Ravi de le savoir. Est-ce que ces nouvelles peintures ont changé ton processus ? 
+Ravi de le savoir. Est-ce que la peinture a toujours la même teinte qu'avant ? 
+À plus tard !
+"Non, je fais toujours pareil. "
+"Ouais, je n'ai vu aucune différence, et je sais de quoi je parle, ça fait 10 ans que je vois cette peinture."
+Même pas eu besoin de vérifier ! RAS.
+"Pardon ? Il faut vérifier, même s'il n'y a pas de problèmes au final, il faut s'en assurer !"
+La nouvelle peinture correspond à l'ancienne au niveau de la teinte.
+"Oui on s'en est assuré. Mais il faut bien vérifier que cela n'a pas d'impact au niveau du processus, du nettoyage ou autre."
+Ok très bien.
+"Autre chose à signaler, que ce soit lors de la mise en place ou du nettoyage ?"
+Cool !
+"Ah bah maintenant que tu le dis, j'ai l'impression que les pistolets sont plus compliqués à nettoyer. Il faudrait changer de solvant."
+Les nouvelles peintures ne semblent pas modifier le processus du poste.
+"D'accord, autre chose ?"
+"Les pistolets sont compliqués à nettoyer avec les nouvelles peintures, je vais me renseigner pour qu'on adapte le solvant."
+"Ah très bien d'accord, merci d'avoir soulevé ce problème. Tiens moi au courant et je passerai commande pour un solvant plus adapté."
+Qu’as-tu à me dire ? (SÉCURITÉ)
+Oui ça peut aller.
+Ça peut aller ? Bon ben super alors !
+J'ai vu qu'un problème de sécurité a été remonté au niveau de ton poste. Tu peux m'en dire plus ?
+Que se passe-t-il? 
+Ouais niquel...
+"Ah super que vous en parliez ! En effet, j'ai failli me faire écraser la main !"
+Je n'ai pas l'impression que les normes de sécurité soient bien appliquées.
+"Ça avait l'air d'aller niveau sécurité, donc je n'ai pas creusé."
+"C'est tout ? Bah il faut creuser et s'en assurer, surtout que ce poste peut être à risque !"
+Ah quand même ! Tu pourrais m'expliquer comment ?
+Oui c'est un problème commun dans l'industrie. Il faut qu'on fasse attention à bien les appliquer !
+Oui c'est souvent le souci. Il faut faire avec. 
+J'ai mis un peu de temps à retirer mes mains...
+Mmhh.. ok.
+Bon ben ok... jusqu'au jour où..
+L'opérateur a indiqué que les normes de sécurité n'étaient pas bien appliquées. On fera attention.
+Euh d'accord mais c'est léger là. Pourquoi elles ne le sont pas ? Quelles mesures prend-on ? Il faut s'en occuper rapidement !
+"L'opérateur ne se sent pas en sécurité, il faut faire avec."
+"Il faut faire avec ?! C'est une blague j'espère ? Je veux savoir pourquoi, et que l'on corrige rapidement les problèmes de sécurité s'il y en a !"
+Il va falloir s'entraîner pour être plus rapide. Ça serait bête de perdre une main !
+Il n'y a pas de système de sécurité automatique ?
+Ok c'est ma faute alors...
+"Si, mais il ne se déclenche pas à chaque fois. Comme il fallait continuer de produire, j'ai fait comme j'ai pu..."
+L'opérateur a failli se faire écraser les mains parce qu'il n'est pas assez rapide.
+"Quoi ?! Mais il y a normalement un système de sécurité d'urgence, ce n'est pas une histoire de rapidité. On ne peut pas laisser ça comme ça !"
+"Tu as bien fait. La production ne doit pas s'arrêter, il suffit juste de faire attention."
+"C'est quand même dangereux, il faut régler cela rapidement. Je vais faire venir la maintenance et tu vas changer de poste en attendant."
+"Je vais voir si la maintenance peut venir réparer ta machine. En attendant, fais attention où tu mets tes mains."
+C'est noté ! Je ferai attention !
+"Moi ça me va, j'ai pas envie de perdre ma main !"
+C'est noté ! Je ferais attention !
+L'opérateur a failli se faire écraser les mains du coup il a ralenti sa production. Je lui ai indiqué que la production prime sur la sécurité.
+Mais c'est complètement faux ! La sécurité est primordiale ! Tu lui as dit n'importe quoi ! Tu dois retourner sur le terrain et résoudre le problème de sécurité au plus vite.
+"J'ai prévenu la maintenance d'un problème de sécurité sur le poste d'emboutissage, en attendant l'opérateur continue de travailler dessus."
+"D'accord, mais ce n'est pas raisonnable de le laisser continuer à travailler dessus alors qu'il y a un risque d'accident."
+Je te tiens au courant quand le problème sera résolu. En attendant va voir Eric pour qu'il t'affecte à un autre poste. Tu ne peux pas continuer sur cette machine.
+Tu aurais des idées pour améliorer la sécurité de ton poste à l'avenir ?
+Merci ! Un stress en moins !
+On peut mettre en place une maintenance préventive afin de détecter ça rapidement.
+L'opérateur est affecté à un poste secondaire le temps que la maintenance répare le problème de sécurité sur son poste.
+"Très bien merci ! À l'avenir, il faudrait que l'on trouve une solution pour que éviter que cela ne se reproduise."
+J'ai envoyé la maintenance sur le poste d'emboutissage. En attendant l'opérateur travaillera sur un autre poste. À l'avenir nous allons planifier des maintenances régulières pour réduire ce genre de risque.
+"Ok génial, merci ! C'est une bonne idée, comme ça on pourra améliorer notre sécurité aux postes !"
+Qu’as-tu à me dire ? (PERSONNEL)
+"Ca peut aller, enfin même si ça commence vraiment à être pénible..."
+"Oui j'ai vu ton retour, tu veux parler du néon qui est défectueux ? "
+Ca y est encore à râler... qu'est-ce qu'il y a ?
+"Oui exactement, franchement ça fait un petit moment que ça dure et ca commence à vraiment être pénible de le voir clignoter."
+Non rien laissez tomber.
+"L'opérateur a l'air tendu et irrité, mais vu qu'il râle souvent j'ai pas voulu creuser."
+Et vous le laissez comme ça ? Vous ne cherchez même pas à savoir pourquoi ?
+D'accord bon ben je verrai ce que je peux faire quand j'aurai le temps.
+"D'accord, tu peux me montrer lequel c'est s'il te plait ? Ca arrive souvent ?"
+"On a d'autres priorités en ce moment, il faut faire avec."
+"Ok, en espérant que ce soit bientôt..."
+"Oui c'est le troisième là, on le repère vu qu'il clignote… Et c'est très fréquent, surtout en fin de journée ça devient très fatiguant… Et je suis pas le seul que ca dérange."
+"Super, comme d'habitude."
+"L'opérateur indique qu'un néon est défectueux, je vais voir ce que je peux faire quand j'aurais le temps."
+"C'est tout de même important, s'il ne peut pas travailler dans de bonnes conditions cela peut être une priorité, il ne faut pas négliger ces aspects là."
+"L'opérateur indique qu'un néon est défectueux et que ca le dérange au quotidien, on a d'autres problèmes à résoudre que des plaintes futiles"
+Des plaintes futiles ? Le bien être des salariés n'est pas important ? C'est n'importe quoi là.
+"Ok on verra ce qu'on peut faire, c'est noté."
+D'accord je vais rapidement voir pour qu'il soit remplacé dans la journée.
+D'accord.
+Ah ben super ! Merci
+"Pas de soucis, t'aurais une idée pour mieux corriger ce genre de problème à l'avenir ?"
+"Après, c'était pas une raison pour râler non plus, il y a pire."
+"Peut-être qu'on pourrait améliorer l'affichage pour mettre une classification des retours, et leur rythme d'occurrence ainsi que leur priorité."
+"Ben... c'était dérangeant honnêtement, ca faisait mal à la tête en fin de journée."
+J'ai pris note qu'il y avait un problème avec un néon.
+"D'accord, et ? Il faudrait anticiper la réparation si cela dérange les opérateurs"
+Je vais faire remplacer le néon qui gène les opérateurs. Je vais aussi voir pour mieux gérer les problèmes à l'avenir avec un système d'affichage plus précis sur les retours de la production.
+D'accord très bien ! Tiens moi au courant pour la suite et la mise en place !
+"Je vais voir pour faire changer un néon qui dérange, mais bon franchement ils se plaignent vraiment pour rien."
+"Le bien être n'est pas anodin, s'ils se plaignent c'est qu'il y a surement une bonne raison. Tu as demandé comment leurs retours pouvaient être pris en compte plus rapidement ?"
+Qu’as-tu à me dire ? (QUALITÉ)
+"Tout va bien, RAS."
+Aucun changement dans tes habitudes de travail ?
+Les tôles te semblent comme d'habitude ?
+"Bah écoute, si tout va bien, c'est parfait !"
+Non je fais comme d'habitude. Il y a un problème ?
+"Bah, elle semblent un peu plus légères et souples mais je n'ai eu aucun souci au niveau de l'emboutissage."
+Ouais !
+"RAS au poste d'emboutissage sur la qualité, pas besoin de vérifier."
+"Bien sûr que si, il faut vérifier. Comment tu peux dire RAS sinon ?
+Il te faut plus d'informations pour pouvoir dire que tout est OK."
+Il a été remonté que les châssis cassaient plus souvent lors de l'assemblage. Je me demandais si ça pouvait venir de l'emboutissage des tôles.
+"Non comme ça, simple vérification pour voir si tu fais ton boulot."
+"Oui donc elles ne sont pas comme d'habitude, tu pourrais au moins l'indiquer !"
+"On a changé de fournisseur donc si tu rencontres un problème avec la tôle, n'hésite pas à le remonter !"
+"Je n'ai rien changé dans ma manière de travailler, cela doit venir d'ailleurs."
+Ah ben vive la confiance !
+Euh oui mais ça n'a rien changé à mon process...
+"D'accord ça marche, merci pour l'info !"
+Les drones plus fragiles ne viennent pas de l'emboutissage.
+"D'accord, il faudrait savoir d'où cela vient alors."
+Je ne sais pas si l'opérateur au poste d'emboutissage fait bien son travail.
+"Pourquoi ça ? Je n'ai jamais eu aucun retour négatif à son sujet, pourquoi il serait la cause ? Il ne faut pas accuser sans creuser..."
+L'opérateur du poste d'emboutissage ne remonte pas les problèmes.
+Vous non plus apparemment. Quel est le véritable problème qu'il n'aurait pas remonté ? Quel est l'impact ? La solution ? Je vous invite à être plus précis...
+Le changement de tôle n'a pas impacté le travail du poste d'emboutissage. Il nous tiendra informé si cela impacte son poste.
+"D'accord, très bien."
+Qu’as-tu à me dire ? (SÉCURITÉ)
+"Oui ça va, c'est juste que je ne sais pas où trouver des bouchons d'oreilles."
+Tu peux demander à tes collègues où ils ont récupéré les leurs.
+Ah bon ? Tu n'en avais pas déjà ? Sinon ils sont dans la salle EPI.
+Et t'attends que je vienne te voir pour t'en occuper ?
+"Je vais faire ça, merci."
+"D'accord, merci. Non, je n'en avais pas besoin mais on a déplacé mon poste pendant mon absence et je me retrouve à côté d'un poste bien plus bruyant."
+Disons qu'avant je n'en avais pas besoin...
+L'opérateur du poste d'assemblage va demander à ses collèges où sont les bouchons d'oreilles.
+"Euh... D'accord, et ?"
+"L'opérateur à l'assemblage n'est pas très pro-actif, il n'a pas de matériel de sécurité mais il ne l'a pas cherché."
+"Pourquoi ? Vous me remontez ça comme ça, sans raison ? Vous avez cherché pourquoi ?"
+"Oui effectivement, on avait besoin de déplacer ton poste."
+"D'accord, on s'est permis de mettre ton poste ici, pour réduire les déplacements. Cela te convient si on te fournit des bouchons comme pour le poste d'emboutissage ?"
+Tu as cru qu'on était dans un salon de massage ? C'est normal qu'il y ait du bruit.
+"J'ai vu, n'hésitez pas à m'en parler avant la prochaine fois."
+"Oui pas de soucis, j'ai pas de problème avec l'emplacement, juste le bruit. Donc si le problème est résolu, ca me va !"
+Wow sympa. Bah j'vais faire avec.
+Il faut prévenir les opérateurs lorsque l'on fait des changements.
+"Oui, c'est évident."
+L'opérateur du poste d'assemblage ne supporte pas le bruit.
+"Et on le laisse comme ça ? Cela ne sert à rien de me remonter ça, il faut trouver une solution."
+Super ! Tu aurais une idée pour que les autres postes n'aient pas ce problème ?
+"Très bien, tout le monde est content comme ça. "
+On pourrait installer un distributeur à l'entrée de l'atelier ou faire en sorte que chaque opérateur ait ses propres bouchons sur-mesure.
+Oui merci !
+Il faut s'assurer que chaque employé ait des bouchons d'oreilles sur-mesure et rajouter un distributeur à l'entrée de la ligne en cas d'oubli.
+"Très bonne idée, je vais voir de mon côté pour mettre ça en place."
+"Le poste d'emboutissage est bruyant, il faut fournir des bouchons aux postes alentours, notamment le poste d'assemblage."
+"D'accord, très bien. À voir si nous ne pouvons pas trouver une solution plus générale qui profite à tous les postes."
+Qu’as-tu à me dire ? (PERSONNEL)
+"Ça peut aller, je reviens tout juste d'arrêt maladie. "
+"Tu es souvent absent, non ?"
+"D'accord, tu es bien remis ?"
+Heu pas plus que n'importe qui je pense?
+Oui merci ça va ! Quelques points d'organisation ont été changés pendant mon absence et je ne savais pas.
+Surveillez le poste d'assemblage. L'opérateur fait peut-être semblant d'être malade.
+N'importe quoi. J'espère que vous rigolez. D'autres retours plus pertinents ?
+Et pourquoi tu ne savais pas ? Tu aurais dû te tenir au courant en revenant.
+Quels points exactements ?
+Je ferai attention la prochaine fois.
+"La réunion stand-up du matin est passée de 9h45 à 9h15 et je n'ai pas été tenu au courant, je l'ai ratée ce matin."
+"Surveillez l'opérateur du poste d'assemblage, il ne semble pas très investi."
+On ne m'a jamais remonté ça. Cela m'étonnerai. Que voulez-vous que je fasse de ce retour ?
+Tu devrais quand même te tenir au courant des changements lorsque tu es absent.
+"D'accord pas de soucis, comment penses-tu que l'on pourrait régler ça afin que personne n'oublie ?"
+"Bon, maintenant tu es au courant, c'est le principal ! "
+Ok je pensais qu'on me préviendrai...
+Je pense qu'on pourrait mettre un affichage à l'entrée de l'atelier !
+"Effectivement, je ne risque plus d'oublier."
+L'opérateur du poste d'assemblage est en retard aux réunions.
+Hein ? L'avez-vous prévenu de cette réunion ? Je vous rappelle qu'il était en arrêt la semaine dernière.
+"Il faudrait prévoir un affichage avec les informations affectant la ligne de prod, visible par tous pour éviter les incompréhensions."
+"Oui c'est une très bonne idée, je vous laisse mettre ça en place ? Merci !"
+L'opérateur est maintenant au courant de la nouvelle organisation.
+"J'espère oui, mais sinon ?"
+Qu’as-tu à me dire ? (QUALITÉ)
+Euh... J'ai eu de meilleures journées.
+"Ce n'est pas facile tous les jours, courage. "
+Qu'est-ce qu'il se passe ?
+"Ouais bah ca arrive, arrête de te lamenter et bosse un peu."
+Oui merci ...
+Ça fait deux coques qui cassent aujourd'hui !
+Bah génial l'empathie.
+L'opérateur ne semble pas avoir le moral.
+"D'accord, vous avez demandé pourquoi ? C'est important de se renseigner."
+L'opérateur se plaint pour rien.
+C'est quoi ce retour ? Je ne vous demande pas de juger les opérateurs !
+As-tu remonté ton souci ?
+Oui j'ai vu une hausse ces derniers jours. Tu as une idée d'où ça vient ?
+Tu devrais faire plus attention dans ton travail.
+"Pas encore. Je pense avoir trouvé la cause, mais je préférerais en être sûr avant de vous en parler. "
+J'ai pas changé ma façon de faire mais les coques me semblent plus fragiles.
+Pourtant je fais toujours autant attention.
+"L'opérateur n'est pas très consciencieux dans son travail, des coques se sont cassées."
+Ah des coques se cassent donc c'est la faute de l'opérateur. Vous êtes allé plus loin avant de conclure ça ?
+"Tu aurais dû m'en parler dès que c'est arrivé, on ne te demande pas de réflechir."
+Il est important de prévenir quand même quand ça arrive. Quelles sont tes premières suppositions ?
+"On a changé de fournisseur, tu penses que ça peut venir de là ?"
+Peut-être que l'humidité en ce moment joue là-dessus.
+"Très bien, la prochaine fois je vous le dirai directement. En tous cas, vous êtes au courant maintenant. Pas besoin de parler comme ça."
+J'ai l'impression que la tôle est plus fine qu'avant mais je n'en suis pas sûr. Je comptais en parler à mon collègue pour savoir s'il avait remarqué quelque chose.
+"Je ne sais pas, mais en tout cas, depuis que Felix gère l'approvisionnement de la tôle, il la trouve aussi plus légère."
+Euh peut-être je ne sais pas.
+L'opérateur a cassé des drones et il a cherché d'où ca pouvait venir au lieu de le remonter. Encore un qui pense tout savoir.
+Vous parlez souvent comme ça des gens de l'équipe ? J'attends des retours plus pertinents. Vous avez cherché la cause de la casse au moins ?
+Les tôles semblent plus fragiles. Peut-être l'humidité dans l'air ?
+"C'est une info, même si elle me semble peu plausible au vue de nos conditions de stockage. Avez-vous creusé cette piste ?"
+"Il n'est pas très malin, je ne pense pas qu'il remarque quoi que ce soit."
+Nous avons effectivement changé de fournisseur. Je vais voir pour que l'on vérifie la qualité de la tôle.
+Tu penses que Felix pourrait être la cause de ce souci ?
+"Ok, je vais demander de vérifier la qualité de la tôle."
+Ouah... J'espère que vous ne parlez pas de tout le monde comme ça...
+Je vais faire attention en attendant de savoir si je dois changer mon process. 
+"Non je ne pense pas, Felix fait très attention, il n'y a aucune raison qu'il en soit la cause."
+"D'accord, je continue en attendant ?"
+"L'opérateur au poste d'emboutissage n'est pas très malin, il est peut être la cause du problème de tôles."
+"D'accord, c'est une chose, mais il faut surtout savoir d'où vient le problème."
+"La qualité des tôles du nouveau fournisseur semble inférieure, c'est sûrement la raison de la hausse de casse."
+"La qualité des tôles du nouveau fournisseur semble inférieure, c'est sûrement la raison de la hausse de casse. Je vais me renseigner auprès du fournisseur."
+Le problème de drones plus fragiles ne vient pas de Félix.
+"D'accord c'est une chose, mais il faut surtout savoir d'où vient le problème."
+"Oui en faisant attention, tu as une idée pour éviter que ça ne se reproduise ?"
+Je pense que tu peux oui. Fais attention pour en casser le moins possible. 
+On pourrait mettre en place un contrôle qualité plus approfondi des matières premières des fournisseurs ?
+"Bien évidemment, je vais faire attention."
+"Les nouvelles tôles sont de mauvaise qualité. Il faudrait mettre en place un meilleur contrôle qualité, je vais voir avec le service en charge. Je vais aussi me renseigner auprès du fournisseur."
+"Parfait, j'attends votre retour sur l'avancement. Cela nous permettra de réduire nos défauts à l'avenir."
+"Les nouvelles tôles sont de moins bonne qualité, il faut changer de fournisseur. Je vais voir avec eux."
+"Très bien merci, je te laisse voir ça. Reste à voir comment réduire les défauts à l'avenir et pérenniser cela."
+Je pense que nous avons abordé tous les sujets.
+Le système de sécurité de ma machine semble défectueux. J'ai évité de peu l'accident grave.
+Encore deux casses aujourd'hui sur les coques... Il va falloir faire quelque chose.
+Manque d'approvisionnement au poste de peinture.
+"Un néon est défectueux, ca devient pénible !"
+Le temps n'est pas encore écoulé. Êtes-vous sûr de vouloir faire l'AIC maintenant ?
+Le temps est écoulé. C'est le moment de faire l'AIC.
+Faire l'AIC
+Mes retours
+Soumettre
+Liste des retours
+Résultats
+"J'ai compris, c'est parti !"
+Finir le minijeu
+"Je n'ai pas trop abordé le sujet de la sécurité, je ne peux pas vraiment faire de retour."
+"Je ne me suis pas trop attardé sur la qualité, je ne peux pas vraiment faire de retour."
+"J'ai préféré aborder d'autres sujets que celui du personnel, je ne peux pas vraiment faire de retour là dessus."
+"Il est important de s'assurer que les règles de sécurité soient appliquées, et qu'aucun opérateur ne court de risque. Vous devriez retourner sur le terrain pour vous en assurer."
+"Nous ne pouvons pas nous permettre d'ignorer la qualité de nos produits, il faut retourner sur le terrain pour s'assurer que nous n'avons aucun problème à ce niveau là."
+Les problèmes de personnel sont tout aussi importants. Il faut retourner sur le terrain pour être certain qu'il n'y a pas de souci.
+Qualité des retours
+Je pense que nous n'avons pas creusé tous les sujets finalement.
+Il me semble que nous avons abordé toutes les problématiques !
+"Bonjour, je voulais juste m'assurer que tout est ok niveau sécurité à ton poste. Tu penses bien à changer le filtre de ton masque régulièrement ? Aucun problème à signaler ?"
+Oui je change le filtre régulièrement comme indiqué ! Aucun souci à signaler niveau sécurité !
+"Bonjour, je voulais savoir si tu avais une idée pour éviter que les problèmes liés à l'affectation du personnel de la logistique ne se reproduisent, afin que tu ne te retrouves plus sans approvisionnement par exemple ?"
+"Re bonjour, oui ce serait bien d'avoir un planning d'affectation par ligne de prod' pour être au courant et réagir plus vite dans ce genre de situation."
+"Bonjour, j'ai oublié de vérifier si la nouvelle peinture n'avait aucun impact, même au niveau du nettoyage par exemple ?"
+"Maintenant que vous le dites, j'ai l'impression que les pistolets sont plus compliqués à nettoyer. Il faudrait un solvant plus adapté !"
+"Bonjour, tu aurais une idée pour éviter les problèmes de sécurité acoustique ? Il semblerait que tu sois concerné."
+"Oui effectivement, on pourrait peut être installer un distributeur à l'entrée de l'atelier ou que chaque opérateur ait ses propres bouchons sur mesure pour les zones bruyantes."
+"Bonjour, tu sais comment on pourrait indiquer à tout le monde les informations générales concernant par exemple les réunions d'équipe ?"
+Je pense qu'on pourrait juste mettre un affichage à l'entrée de l'atelier et bien ancrer la routine pour que cela devienne un reflexe pour chacun.
+"Bonjour, tu sais comment on pourrait réduire voir empêcher les problèmes de casses ou liés à la qualité ?"
+"On pourrait mettre en place un contrôle qualité plus approfondi des matières premières des fournisseurs ? Comme ça, si on change de fournisseur, la tôle passe par une serie de test avant d'être envoyée en production ?"
+"Bonjour, tu aurais des idées pour améliorer la sécurité de ton poste à l'avenir ?"
+"Oui, je pense qu'il serait pertinent de mettre une maintenance préventive régulière, pour détecter, voir éviter les potentiels problèmes, comme dans mon cas avec le système de sécurité défectueux."
+"Bonjour, je vais faire en sorte que le néon soit réparé au plus vite, esperons aujourd'hui. Pour les problèmes futurs, tu aurais des idées pour qu'ils soient mieux traités et plus rapidement ?"
+"Super merci ! Oui je pense qu'on pourrait améliorer l'affichage pour mettre une classification des retours, et leur rythme d'occurrence ainsi que leur priorité. Comme ça un problème ne durerai pas plusieurs jours sans qu'on ne fasse rien."
+"Bonjour, je voulais t'indiquer qu'on a changé de fournisseur. Donc n'hésite pas à nous remonter tout problème que tu pourrais avoir le plus rapidement possible s'il te plait."
+"D'accord merci de m'en informer. Pas de soucis, je vous dirai si ça arrive !"
+"Bonjour, as-tu un retour à me faire ?"
+Tu as autre chose à remonter ?
+Une dernière information ?
+"Bon les informations ne me semblent pas suffisantes, je t'invite à retourner sur le terrain pour approfondir certains éléments et revenir me voir pour en discuter."
+Tu as pu avoir plus d'informations ?
+"Très bien, autre chose à remonter ?"
+"Parfait, une dernière chose ?"
+"Très bien, nous pouvons planifier une réunion pour réfléchir à la mise en place de résolutions !"
+"Vous avez les informations nécessaires, vous pouvez retourner voir la manageuse."
+Bienvenue dans le mini-jeu sur l'Animation à Intervalles Courts !
+L'objectif de la 1ère boucle de l'AIC est de faire un tour de la production (Tournée de Supervision Active) afin de remonter les informations utiles au manager lors de la réunion AIC.
+"Vous allez devoir commencer par faire un Gemba Walk. Pour cela, cliquez sur un opérateur, celui-ci par exemple."
+Voici votre conversation avec un opérateur. Les questions que vous pouvez lui poser sont en bas.
+"Ici, vous voyez l'impact de vos échanges sur l'humeur de l'opérateur. Une communication positive est primordiale !"
+Revenons à notre vue générale.
+Ici se trouve le tableau d'affichage SQCDP. N'hésitez pas à le consulter pour vous donner une idée des sujets importants à aborder avec les différents opérateurs. Allons y jeter un oeil ensemble !
+"L'affichage SQCDP est important en entreprise. Il permet de suivre des indicateurs tels que la Sécurité, la Qualité, les Coûts, les Délais et le Personnel."
+"À la fin du temps imparti, l'AIC avec le manager débutera, il est important d'obtenir les informations pertinentes avant la fin."
+"Toutefois, vous pouvez lancer l'AIC avant la fin du temps imparti si vous pensez avoir les informations suffisantes ! Pour cela, il vous suffit de cliquer sur votre manageuse, allons la voir."
+Vous pouvez voir la liste de vos retours en cliquant ici.
+"La liste des retours s'affiche ici. Pour chaque retour, on peut voir le thème abordé et la personne avec qui vous l'avez obtenu. C'est en le soumettant à votre manageuse que vous saurez si c'est un retour pertinent ou non !"
+Vous aurez 3 retours à faire. Un symbole indiquant la pertinence de chaque retour s'affichera ici !
+"Si vous soumettez des retours non pertinents, vous devrez retourner sur le terrain pour finaliser l'échange afin d'obtenir une information intéressante."
+Il n'y a pas d'autres réponses disponibles
+"Pour accéder au Quiz, terminez les niveaux inachevés suivants :"
+"De formation logisticienne industrielle, je suis certifiée Black Belt en Lean Management.
+J’ai pu apprendre et mettre à contribution mes compétences pour des multinationales.
+J’ai exercé 12 ans dans le secteur de l’électronique (plus précisément dans le domaine de l’éclairage), 3 ans dans l’automobile et 2 ans dans le
+domaine pharmaceutique.
+J’ai aussi suivi une formation « Industrie 4.0 » à CentraleSupélec de Saclay."

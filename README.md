@@ -1,92 +1,102 @@
-# TER_M1S2_2023
+# IA de la traduction
+
+## IA de la classification
+
+L'IA de la classification prend en compte les datas de la traduction de [ce jeu de donnée](https://docs.google.com/spreadsheets/d/1_i6kVy7n9s72CsCWyN6i1Zqp8jxh_uYjvKRbLvIIY2k/edit#gid=1440583160).
+
+### Description
+
+L'IA du fichier `binary_classification_sklearn.py` est entraînée avec cette data `digit_en_learnX.csv` et ensuite sera évaluée par les datas du fichier `digit_en_predX.csv`.
+
+Pour tester les autres jeux de données il vous suffit de changer les contenus de ces fichiers ou utiliser les fichiers existants qui terminent par `_learn`. **Attention de garder le même format pour de nouveaux datas.**
+
+Chaque dataset est différent et donnera un résultat différent.
+
+Les fichiers qui commencent par `digit` sont les données numériques. Les fichiers qui commencent par `text` sont les données textes.
+
+Les fichiers qui commencent par `ml_review_` sont les données sans classement (Pas de validation). Ces datas sont utilisées
+ pour la prédiction sans la validation.
+
+### Data d'entraînement
+
+Dans le fichier `digit_X.csv` les colonnes sont :
+- distance (La distance Levenshtein)
+- bleu (Le score BLEU)
+- ter
+- tri
+- lcs
+- includesFormula (0 ou 1)
+- onlyNumbers     (0 ou 1)
+- includesBraces  (0 ou 1)
+- hasFormatting   (0 ou 1)
+- numberOfWords
+- includesLink    (0 ou 1)
+- reviewScore     (entre 0 et 1 ; il est calculé en fonction des autres éléments et leurs importances)
+- AI_trad_is_good (0 ou 1 ; le résultat choisi)
 
 
+### Data prediction
 
-## Getting started
+La même data comme la data d'entraînement sauf la dernière colonne `AI_trad_is_good` qui sera prédit par l'IA.
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+## IA de la traduction
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+Le fichier `machine_translation.py`. Cette IA est entraînée avec les données textes du fichier `fra.txt`, ce jeu de donnée est téléchargé depuis [ce lien](http://www.manythings.org/anki/). Cette IA est limitée pour les textes du projet et ne donne pas le bon résultat mais, pourra être intéressant dans l'avenir pour des textes plus ou moins avancé ; par exemple en faisant un glossaire Lean.
 
-## Add your files
+## IA de classification avec tokenisation
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+`tokenize_text.py` : Cette IA utilise le même jeu de donnée de classification mais, malgré l'autre, celle-ci utilise les textes 'tokenisés'. Ceci fait l'apprentissage avec le texte français. Pour plus d'info de comment `CountVectorizer tokenizer` fonctionne, [voir ici](https://kavita-ganesan.com/how-to-use-countvectorizer/#.Y-ZvBHbMJD8).
 
-```
-cd existing_repo
-git remote add origin https://git.unistra.fr/irajdoost/ter_m1s2_2023.git
-git branch -M main
-git push -uf origin main
-```
+Les fichiers `text_fr_learnX.csv` et `text_fr_predictionX.csv` sont les datas d'apprentissage et les datas tests de cette IA.
 
-## Integrate with your tools
+## L'IA de Tokenize and classify [WIP]
 
-- [ ] [Set up project integrations](https://git.unistra.fr/irajdoost/ter_m1s2_2023/-/settings/integrations)
+`tokenize_text_and_classify.py` : Cette IA est une combinaison de l'IA de tokenization du texte et la classification binaire.
+(`binary_classification_sklearn.py` et `tokenize_text`). Ceci est un WORK IN PROGRESS.
 
-## Collaborate with your team
+# Les outils automatiques
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+Les fichiers à mettre sur le serveur pour automatiser le process du machine learning et prédiction.
 
-## Test and Deploy
+## Usage and installation
 
-Use the built-in continuous integration in GitLab.
+Install [Python 3+](https://www.python.org/downloads/) on your machine.
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+You can run the `.py` scripts using the command `python [FILE_NAME]`
 
-***
+install the Python libraries using `pip` command:
 
-# Editing this README
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
+``
+pip install pandas
+``
 
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+``
+pip install sklearn
+``
 
-## Name
-Choose a self-explaining name for your project.
+``
+pip install nltk
+``
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+Execute this line to install the required packages in /python folder
+``python -m pip install -r requirements.txt -t ./python``
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+## Auto ML Text
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+Ce fichier prend en entrée avec l'option `-i` un chemin vers un fichier JSON qui contient les textes sur lesquels on
+voudra faire la prédiction. Le résultat sera retourné en JSON. Le résultat de ce programme est 0 ou 1. 0 veut dire que
+le texte original sera potentiellement mieux que le texte traduit par Deepl et l'inverse.
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+Pour voir les options de ce fichier, exécutez le script avec l'option `-h` ou `--help`
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+## Auto ML Number
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+Ce fichier prend en entrée avec l'option `-i` un chemin vers un fichier JSON qui contient les chiffres (review score, 
+distance, bleu, ter, tri, lcs, numberOfWords) sur lesquels on voudra faire la prédiction.
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+Ce fichier se ressemble au fichier `binary_classification_sklearn.py`.
+Les régles sont les mêmes que pour ce fichier. Le résultat sera retourné en JSON. Le résultat de ce programme est 0 ou 1.
+0 veut dire que le texte original sera potentiellement mieux que le texte traduit par Deepl et l'inverse.
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+Pour voir les options de ce fichier, exécutez le script avec l'option `-h` ou `--help`
