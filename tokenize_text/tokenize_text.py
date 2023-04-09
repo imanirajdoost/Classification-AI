@@ -15,8 +15,8 @@ from nltk.stem import SnowballStemmer
 
 import bcolors
 
-# Change this to french, etc.
-source_language = 'english'
+# Change this to french, english, etc.
+source_language = 'french'
 
 write_unseen_data = True
 
@@ -43,8 +43,8 @@ def preprocess_text(all_text):
     return final_tokens
 
 
-data = pd.read_csv('text_en_learn.csv', sep=',')
-dataWithHeader = pd.read_csv('text_en_learn.csv', sep=',')
+data = pd.read_csv('text_fr_learn.csv', sep=',')
+dataWithHeader = pd.read_csv('text_fr_learn.csv', sep=',')
 
 # get the first column as text data column
 text_data = data.iloc[:, 0]
@@ -79,7 +79,7 @@ scores = cross_val_score(clf, X_test, y_test, cv=10)
 print('Accuracy (MultinomialNB):', scores)
 
 # Predict new data
-new_data = pd.read_csv('text_en_prediction2.csv', sep=',')
+new_data = pd.read_csv('text_fr_prediction.csv', sep=',')
 
 pred_text = new_data.iloc[:, 0]
 pred_class = new_data.iloc[:, new_data.shape[1] - 1]
@@ -130,7 +130,7 @@ for item in predictions:
 
 if write_unseen_data:
     # Unseen data
-    unseen_data_file = 'ml_review_en_20230222.csv'
+    unseen_data_file = 'ml_review_text_fr.csv'
     unseen_data = pd.read_csv(unseen_data_file)
     print(unseen_data.describe())
     unseen_data = unseen_data.iloc[:, 0]
