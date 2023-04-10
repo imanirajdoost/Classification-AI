@@ -14,7 +14,7 @@ data = pd.read_csv('digit_en_learn.csv', sep=',')
 dataWithHeader = pd.read_csv('digit_en_learn.csv', sep=',')
 
 should_scale_data = True
-use_prediction_file = False
+use_prediction_file = True
 should_plot = True
 
 print(dataWithHeader.describe())
@@ -57,7 +57,7 @@ print('=======================')
 
 # preparing prediction data
 if use_prediction_file:
-    dataset = pd.read_csv('digit_en_pred2.csv', sep=',')
+    dataset = pd.read_csv('digit_en_pred.csv', sep=',')
     pred_data = np.array(dataset)
 else:
     pred_data = [[52, 0.0, 0.3333333333, -8.0, 47.82608696, 0, 0, 1, 0, 3, 0, 0.8888888889, 1],
